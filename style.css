@@ -32,6 +32,9 @@ html{
     color: #ffffff;
     z-index: 3;
 }
+.item:hover{
+    color: rgb(100, 77, 165);
+}
 
 .containerAccueil {
     display: flex;
